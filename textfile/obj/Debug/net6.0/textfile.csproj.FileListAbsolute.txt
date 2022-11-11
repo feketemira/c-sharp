@@ -1,0 +1,15 @@
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\bin\Debug\net6.0\textfile.exe
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\bin\Debug\net6.0\textfile.deps.json
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\bin\Debug\net6.0\textfile.runtimeconfig.json
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\bin\Debug\net6.0\textfile.dll
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\bin\Debug\net6.0\textfile.pdb
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.csproj.AssemblyReference.cache
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.AssemblyInfoInputs.cache
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.AssemblyInfo.cs
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.csproj.CoreCompileInputs.cache
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.dll
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\refint\textfile.dll
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.pdb
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\textfile.genruntimeconfig.cache
+C:\Users\feket\OneDrive\Asztali gép\3.félév\c#\textfile\obj\Debug\net6.0\ref\textfile.dll
