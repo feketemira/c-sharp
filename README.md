@@ -1,4 +1,4 @@
-# Started  to get to know .NET MAUI and created my first app
+    Started  to get to know .NET MAUI and created my first app
     Tested on Windows and tried to test it on Android
     Started to download and set up the necessary settings: Hyper v,MSDNAA, new Android device-->failed:( Can't test the apps on Android
 ## 10.12.
