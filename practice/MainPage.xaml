@@ -1,0 +1,83 @@
+﻿
+    <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Maui_test.MainPage">
+
+
+        <ScrollView>
+
+        <StackLayout
+            Spacing="25"
+            Padding="30,0"
+            Background="LightPink"
+            VerticalOptions="Center">
+
+            <Image
+                x:Name="Imagebot"
+               
+                Source="dotnet_bot.png"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Hello!:)"
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                TextColor="WhiteSmoke"
+                FontFamily="Baskerville,Georgia"/>
+
+
+            <Label
+                x:Name="label1"
+                Text="Modern browsers support 140 named colors, which are listed below.Use them in your HTML and CSS by name, Hex color code or RGB value."
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="12"
+                HorizontalOptions="Start"
+				FontAttributes="Bold,Italic"/>
+            <Entry
+                x:Name="Entry"
+                Text="Write something"
+                 HorizontalOptions="Center"
+                />
+
+            <StackLayout Orientation="Horizontal">
+                <Button
+                    x:Name="ClrChangerButton"
+                    Text="Make buttons different color"
+                    Clicked="ClrChange"
+                    HorizontalOptions="Start"
+                    TextColor="White"
+                    Background="black"
+                    />
+
+                <Button
+                    x:Name="Imgbutton"
+                    Text="Hide the image"
+                    Clicked="Hide"
+                    HorizontalOptions="End"
+                    TextColor="White"
+                     Background="black"
+                    />
+                <Button
+                    x:Name="Imgbutton2"
+                    Text="Show the image"
+                    Clicked="Show"
+                    HorizontalOptions="Center"
+                    TextColor="White"
+                     Background="black"
+                    />
+                <Button
+                    x:Name="textbutton"
+                    Text="text"
+                    Clicked="Text"
+                    HorizontalOptions="Center"
+                    TextColor="White"
+                     Background="black"
+                    />
+            </StackLayout>    
+        </StackLayout>
+        
+    </ScrollView>
+ 
+    </ContentPage>
