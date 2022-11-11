@@ -6,7 +6,7 @@
 ## 10.13
     2.Create a UI in a .NET MAUI app by using XAML
 ## 10.16
-https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0
--->XAML overview (WPF .NET)
+    https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0
+    -->XAML overview (WPF .NET)
 ## 11.11
-  órán elkezdett fájl használó kód feltöltése **txt**
+    órán elkezdett fájl használó kód feltöltése **txt**
