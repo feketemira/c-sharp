@@ -1,3 +1,4 @@
+ ## 09.22.   1.
     Started  to get to know .NET MAUI and created my first app
     Tested on Windows and tried to test it on Android
     Started to download and set up the necessary settings: Hyper v,MSDNAA, new Android device-->failed:( Can't test the apps on Android
@@ -8,9 +9,12 @@
 ## 10.16
     https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0
     -->XAML overview (WPF .NET)
-## 11.11
+## 11.11    10.
     órán elkezdett fájl használó kód feltöltése **txt**
-## 11.24-11.óra
-    Rádiógomb gender
-    Menü - program bezárása
-    Progressbar - age 0-100
+## 11.24    11.
+    Label- name, email
+    PictureBox-picture, robot
+    RadioButton- gender
+    Menu- close
+    Progressbar - age
+    
