@@ -10,3 +10,7 @@
     -->XAML overview (WPF .NET)
 ## 11.11
     órán elkezdett fájl használó kód feltöltése **txt**
+## 11.24-11.óra
+    Rádiógomb gender
+    Menü - program bezárása
+    Progressbar - age 0-100
