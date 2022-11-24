@@ -13,9 +13,9 @@
     órán elkezdett fájl használó kód feltöltése **txt**
 ## 11.24
     órai feladatok:
-    - Label- name, email
-    - PictureBox-picture, robot
-    - RadioButton- gender
-    - Menu- close
-    - Progressbar - age
-    
+   - Label- name, email
+   - PictureBox-picture, robot
+   - RadioButton- gender
+   - Menu- close
+   - Progressbar - age
+
