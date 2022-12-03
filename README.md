@@ -6,9 +6,6 @@
    MAUI course/1.Create a cross-platform app with .NET MAUI --> finished
 ## 10.13
    2.Create a UI in a .NET MAUI app by using XAML
-## 10.16
-   https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0
-   -->XAML overview (WPF .NET)
 ## 11.11 
    órán elkezdett fájl használó kód feltöltése **txt**
 ## 11.24
@@ -18,4 +15,5 @@
    - RadioButton- gender
    - Menu- close
    - Progressbar - age
-
+##12.01
+   adatbázis az rlőző órai feladathoz
