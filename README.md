@@ -6,7 +6,7 @@
  - [X] adatbázis (SQLight, MariaDB)
  - [ ] beadandó
 
-github megismerése
+github megismerése:
 https://github.com/feketemira/first-repository
  
  
