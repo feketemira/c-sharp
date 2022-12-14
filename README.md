@@ -1,9 +1,9 @@
- - [ ] automatikus szemétgyűjtő
+ - [X] automatikus szemétgyűjtő
  - [ ] github - mappákba rendezés
  - [ ] nyelvi elemek - gyakorlás
- - [ ] fájlkezelés json, xml, text, csv, bin
- - [ ] grafikus felület - random user és adatai
- - [ ] adatbázis (SQLight, MariaDB)
+ - [X] fájlkezelés json, xml, text, csv, bin
+ - [X] grafikus felület - random user és adatai
+ - [X] adatbázis (SQLight, MariaDB)
  - [ ] beadandó
 
  
