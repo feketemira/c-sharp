@@ -1,12 +1,13 @@
  - [X] automatikus szemétgyűjtő
- - [ ] github - mappákba rendezés
- - [ ] nyelvi elemek - gyakorlás
+ - [X] github - mappákba rendezés
+ - [X] nyelvi elemek - gyakorlás
  - [X] fájlkezelés json, xml, text, csv, bin
  - [X] grafikus felület - random user és adatai
  - [X] adatbázis (SQLight, MariaDB)
  - [ ] beadandó
 
- 
+github megismerése
+https://github.com/feketemira/first-repository
  
  
  ## 09.22.
