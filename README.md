@@ -1,3 +1,14 @@
+ - [ ] automatikus szemétgyűjtő
+ - [ ] github - mappákba rendezés
+ - [ ] nyelvi elemek - gyakorlás
+ - [ ] fájlkezelés json, xml, text, csv, bin
+ - [ ] grafikus felület - random user és adatai
+ - [ ] adatbázis (SQLight, MariaDB)
+ - [ ] beadandó
+
+ 
+ 
+ 
  ## 09.22.
   Started  to get to know .NET MAUI and created my first app
   Tested on Windows and tried to test it on Android
