@@ -1,4 +1,4 @@
- - [X] automatikus szemétgyűjtő
+ - [] automatikus szemétgyűjtő
  - [X] github - mappákba rendezés
  - [X] nyelvi elemek - gyakorlás
  - [X] fájlkezelés json, xml, text, csv, bin
